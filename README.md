@@ -1,24 +1,16 @@
-# task-test
+# Тестовое приложение
 
-## Project setup
+## Загрузка необходимых зависимостей
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Запустить сервер
 ```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
+yarn server
 ```
 
-### Lints and fixes files
+### Запустить приложение
 ```
-yarn lint
+yarn start
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
