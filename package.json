@@ -9,7 +9,7 @@
     "server": "node server/server.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "compression": "^1.0.3",
     "core-js": "^3.6.5",
     "cors": "^2.5.2",
